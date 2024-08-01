@@ -12,9 +12,9 @@ This script automates the creation of reddit posts as videos. It fetches screens
 ## Installation
 
 1. Clone the repository
-[   ```bash
-    git clone 
-   ```](https://github.com/SaryNassif/Automated-Content.git)
+    ```bash
+    git clone https://github.com/SaryNassif/Automated-Content.git cd Automated-Content
+    ```
 
 2. Install the required Python packages:
     ```bash
