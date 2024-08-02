@@ -8,6 +8,7 @@ This script automates the creation of reddit posts as videos. It fetches screens
 -Converts post into a mp4 file using Google Text To Speech (gTTS)
 -Takes a screenshot of the post using sellenium
 -Combines Audio, Video, and Screenshot into one video using moviepy
+-
 
 ## Installation
 
