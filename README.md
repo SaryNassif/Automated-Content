@@ -1,19 +1,19 @@
 # Automated-Content by Sary Nassif
 
-This script automates the creation of reddit posts as videos. It fetches screenshots of the posts, and combines it into an mp4 file with text to speech audio.
+This script automates the creation of Reddit posts as videos. It fetches screenshots of the posts and combines them into an mp4 file with text-to-speech audio.
 
 ## Features
 
--Fetches Post from specified subreddit by the user using reddit API 
--Converts post into a mp4 file using Google Text To Speech (gTTS) 
--Takes a screenshot of the post using sellenium 
--Combines Audio, Video, and Screenshot into one video using moviepy 
+- Fetches Post from specified subreddits by the user using Reddit API 
+- Converts post into a mp4 file using Google Text To Speech (gTTS) 
+- Takes a screenshot of the post using Sellenium 
+- Combines Audio, Video, and Screenshot into one video using Moviepy 
 
 ## Installation
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/SaryNassif/Automated-Content.git cd
+    git clone https://github.com/SaryNassif/Automated-Content.git
     ```
 
 2. Install the required Python packages:
