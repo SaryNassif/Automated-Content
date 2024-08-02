@@ -1,5 +1,4 @@
-# Automated-Content by Sary Nassif
-
+# Automated-Content
 This script automates the creation of Reddit posts as videos. It fetches screenshots of the posts and combines them into an mp4 file with text-to-speech audio.
 
 ## Features
