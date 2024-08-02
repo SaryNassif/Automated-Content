@@ -27,7 +27,7 @@ This script automates the creation of Reddit posts as videos. It fetches screens
 
 ## Usage
 1. Obtain a background video:
-    -You can use any video file as a background. If you do not have one, a basic Minecraft parkour video is linked here: [Youtube Video] (https://youtu.be/I4R8g637IlU)
+    -You can use any video file as a background. If you do not have one, a basic Minecraft parkour video is linked here: [Youtube Video](https://youtu.be/I4R8g637IlU)
    - Make sure that the video is named "BackgroundVid.mp4" in the root directory of the project.
 
 
