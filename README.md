@@ -26,12 +26,16 @@ This script automates the creation of Reddit posts as videos. It fetches screens
     - [ChromeDriver](https://sites.google.com/chromium.org/driver/)
 
 ## Usage
+1. Obtain a background video:
+    -You can use any video file as a background. If you do not have one, a basic Minecraft parkour video is linked here: [Youtube Video] (https://youtu.be/I4R8g637IlU)
+   - Make sure that the video is named "BackgroundVid.mp4" in the root directory of the project.
 
-1. Run the script:
+
+3. Run the script:
     ```bash
     python Script.py
     ```
 
-2. Fill in your Reddit API credentials and subreddit information in the GUI.
-3. Click the "Generate Reddit Video" button.
+4. Fill in your Reddit API credentials and subreddit information in the GUI.
+5. Click the "Generate Reddit Video" button.
    
